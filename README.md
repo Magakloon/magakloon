@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Ricky</h1>
-<h3>A lead-developer for a community driven FiveM community in The Netherlands</h3>
+<h3>A lead-developer for a FiveM community in The Netherlands</h3>
 
 - 🔭 I’m currently working on [Springbank Roleplay](discord.gg/springbankrp)
 
