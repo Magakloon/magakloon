@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=your-github-username)
 <h1>Hi 👋, I'm Ricky</h1>
 <h3>A lead-developer for a FiveM community in The Netherlands</h3>
 
